@@ -1,0 +1,25 @@
+* {
+  background-color: rgb(181, 209, 182);
+  color: rgb(48, 70, 53);
+
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1%;
+  height: 100%;
+}
+
+.inputs {
+  width: 70%;
+  height: -moz-fit-content;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+}
+
+#root {
+  height: 50rem;
+}

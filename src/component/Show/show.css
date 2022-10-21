@@ -1,0 +1,17 @@
+.showDiv {
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+
+}
+
+.showDiv ul {
+  list-style-type: none
+}
+
+.myUl {
+  display: flex;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 7%;
+}

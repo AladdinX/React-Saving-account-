@@ -1,0 +1,33 @@
+.inDiv,
+.inDiv form {
+  padding: 4%;
+  flex-direction: column;
+  margin: 1%;
+
+}
+
+.inDiv {
+  box-shadow: 20px 20px 50px 10px rgb(245, 244, 244);
+  z-index: 21;
+}
+
+.inDiv input {
+  width: 70%;
+  height: 2rem;
+  margin-left: 5%;
+  background-color: rgba(255, 255, 255, 0.678);
+  border-radius: 8px;
+}
+
+.inDiv button {
+  margin-top: 2%;
+  height: 2rem;
+  margin-left: 15%;
+  width: 50%;
+  background-color: rgba(23, 41, 79, 0.511);
+  color: white;
+}
+
+.numberShow {
+  align-self: end;
+}
