@@ -1,14 +1,14 @@
-This is a school project to practise working with React.
+##   School project to practicing React and JS-ES6
 
-• React
-o Class Component
-o Props
-o Events
-o Map() Iterator
-o JSX
-o Method(s) that render HTML code
-
-• JS and ES6
-o Arrow functions
-o Map() or Set() Data structure
-o LocalStorage
+-**React**
+ - Class Component
+ - Props
+ - Events
+ - Map() Iterator
+ - JSX
+ - Method(s) that render HTML code
+ 
+ -**JS and ES6**
+ - Arrow functions
+ - Map() or Set() Data structure
+ - Local Storage
